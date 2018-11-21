@@ -93,7 +93,7 @@ Here f(A,P,N) stands for the embeddings of each of the input image<br />
 ## Acknowledgments
 
 * Andrew Ng  | Deeplearning.ai<br />
-*the ResNet algorithm due to He et al. (2015). The implementation here also took significant inspiration and follows the structure given in the github repository of Francois Chollet:
-*Kaiming He, Xiangyu Zhang, Shaoqing Ren, Jian Sun - Deep Residual Learning for Image Recognition (2015)
-*Francois Chollet's github repository: https://github.com/fchollet/deep-learning-models/blob/master/resnet50.py
+* the ResNet algorithm due to He et al. (2015). The implementation here also took significant inspiration and follows the structure given in the github repository of Francois Chollet:<br />
+* Kaiming He, Xiangyu Zhang, Shaoqing Ren, Jian Sun - Deep Residual Learning for Image Recognition (2015)<br />
+* Francois Chollet's github repository: https://github.com/fchollet/deep-learning-models/blob/master/resnet50.py<br />
 
