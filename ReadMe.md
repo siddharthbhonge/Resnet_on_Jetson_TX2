@@ -4,7 +4,7 @@
 
 ![alt text](https://github.com/siddharthbhonge/Resnet_on_Jetson_TX2/blob/master/resnet.png)
 
-##### Demo Link:https://www.youtube.com/watch?v=UQUWNcQjsqg&t=1s
+##### Demo Link:https://youtu.be/_xkCEabTec4
 
 ## Getting Started
 
