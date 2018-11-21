@@ -22,9 +22,9 @@ Opencv was used to capture images .
 
 ## Theory
 
-The details of this ResNet-50 model are:<br/>
+The details of this ResNet-50 model are:
 
-![alt text](https://github.com/siddharthbhonge/Resnet_on_Jetson_TX2/blob/master/residual_block.png)
+![alt text](https://github.com/siddharthbhonge/Resnet_on_Jetson_TX2/blob/master/residula_block.png)
     Zero-padding pads the input with a pad of (3,3)<br/>
     Stage 1:<br/>
         The 2D Convolution has 64 filters of shape (7,7) and uses a stride of (2,2). Its name is "conv1".<br/>
@@ -80,7 +80,7 @@ Resnet_on_Jetson
 Here f(A,P,N) stands for the embeddings of each of the input image<br />
 
 
-##### 3.Results<br />
+##### 3.Results 
 ![alt text](https://github.com/siddharthbhonge/Face_Recognition_with_jetson_TX2/blob/master/result.png)
 
 
